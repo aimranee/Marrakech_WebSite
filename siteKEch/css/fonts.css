@@ -1,0 +1,27 @@
+/* font-family: Abel */
+@font-face{
+    font-family: Abel;
+    crs: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font-family: Grandstander */
+
+@font-face{
+    font-family: Grandstander;
+    crs: url('../fonts/Grandstander/Grandstander-VariableFont_wght.ttf');
+}
+
+/* font-family: livvic */
+
+@font-face{
+    font-family: livvic;
+    crs: url('../fonts/Livvic/Livvic-ExtraLightItalic.ttf');
+}
+
+/* font-family: Nunito */
+
+@font-face{
+    font-family: nunito;
+    crs: url('../fonts/Nunito/Nunito-ExtraBold.ttf');
+}
+
